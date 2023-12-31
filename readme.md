@@ -280,21 +280,21 @@ All of these functions follow a similar pattern:
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/index_page.jpg" alt="Index Page" width="1000" height="600"/></td>
+    <td><img src="screenshots/index_page.jpg" alt="Index Page" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Index or Login Page</em></td>
   </tr>
 
   <tr>
-    <td><img src="screenshots/register_page.jpg" alt="Register Page" width="1000" height="600"/></td>
+    <td><img src="screenshots/register_page.jpg" alt="Register Page" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Register Page</em></td>
   </tr>
   
   <tr>
-    <td><img src="screenshots/password_recovery.jpg" alt="Password Recovery Page" width="1000" height="600"/></td>
+    <td><img src="screenshots/password_recovery.jpg" alt="Password Recovery Page" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Password Recovery Page</em></td>
@@ -302,24 +302,27 @@ All of these functions follow a similar pattern:
 
 
   <tr>
-    <td><img src="screenshots/home_page_01.jpg" alt="Home Page"  align="center" width="600" height="600"/></td>
-    <td><img src="screenshots/home_page_02.jpg" alt="Home Page"  align="center" width="600" height="600"/></td>
-    <td><img src="screenshots/home_page_03.jpg" alt="Home Page"  align="center" width="600" height="600"/></td>
+    <td><img src="screenshots/home_page_01.jpg" alt="Home Page"  align="center" width="1500" height="600"/></td>
   </tr>
-
+  <tr>
+    <td><img src="screenshots/home_page_02.jpg" alt="Home Page"  align="center" width="1500" height="600"/></td>
+  </tr>  
+  <tr>
+    <td><img src="screenshots/home_page_03.jpg" alt="Home Page"  align="center" width="1500" height="600"/></td>
+  </tr>
   <tr>
     <td><em>Home Page </em></td>
   </tr>
 
   <tr>
-    <td><img src="screenshots/cart.jpg" alt="Cart Page"  align="center" width="1000" height="600"/></td>
+    <td><img src="screenshots/cart.jpg" alt="Cart Page"  align="center" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Cart Page </em></td>
   </tr>
 
   <tr>
-    <td><img src="screenshots/profile.jpg" alt="Profile Page"  align="center" width="1000" height="600"/></td>
+    <td><img src="screenshots/profile.jpg" alt="Profile Page"  align="center" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Profile Page </em></td>
@@ -330,19 +333,19 @@ All of these functions follow a similar pattern:
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/admin_dashboard.jpg" alt="Admin Dashboard Page" width="1000" height="600"/></td>
+    <td><img src="screenshots/admin_dashboard.jpg" alt="Admin Dashboard Page" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Admin Dashboard Page</em></td>
   </tr>
   <tr>
-    <td><img src="screenshots/admin_management.jpg" alt="Admin Management Page" width="1000" height="600"/></td>
+    <td><img src="screenshots/admin_management.jpg" alt="Admin Management Page" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Admin Management Page</em></td>
   </tr>
   <tr>
-    <td><img src="screenshots/summary.jpg" alt="Summary Page"  align="center" width="1000" height="600"/></td>
+    <td><img src="screenshots/summary.jpg" alt="Summary Page"  align="center" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Summary Page </em></td>
@@ -353,13 +356,13 @@ All of these functions follow a similar pattern:
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/manager_dashboard.jpg" alt="Manager Dashboard Page" width="1000" height="600"/></td>
+    <td><img src="screenshots/manager_dashboard.jpg" alt="Manager Dashboard Page" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Manager Dashboard Page</em></td>
   </tr>
   <tr>
-    <td><img src="screenshots/manager_profile.jpg" alt="Manager Profile Page" width="1000" height="600"/></td>
+    <td><img src="screenshots/manager_profile.jpg" alt="Manager Profile Page" width="1500" height="600"/></td>
   </tr>
   <tr>
     <td><em>Manager Profile Page</em></td>
