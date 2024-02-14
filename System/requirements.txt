@@ -12,3 +12,4 @@ geopy
 scipy
 flask_sqlalchemy
 pygal
+gunicorn
