@@ -5,7 +5,6 @@ Flask-WTF
 Flask-JWT-Extended
 Flask-Bcrypt
 flask_mail
-folium
 scipy
 flask_sqlalchemy
 pygal
