@@ -4,11 +4,8 @@ SQLAlchemy
 Flask-WTF
 Flask-JWT-Extended
 Flask-Bcrypt
-Celery
-redis
 flask_mail
 folium
-geopy
 scipy
 flask_sqlalchemy
 pygal
