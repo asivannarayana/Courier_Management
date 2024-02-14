@@ -1,6 +1,5 @@
 Flask
 Flask-Login
-Flask-SQLAlchemy
 Flask-WTF
 Flask-JWT-Extended
 Flask-Bcrypt
@@ -9,3 +8,4 @@ gunicorn
 scipy
 pygal
 geopy
+flask_sqlalchemy
