@@ -407,6 +407,7 @@ To run the Courier Management System Web App, execute the following command in y
 python app.py  
 ```
 Visit the provided local URL (usually http://localhost:5000) in your web browser to access the app. <br>
+ Or use this deployed link to access the web app : https://courier-management-system-1ne8.onrender.com
 
 
 ## Contributing
