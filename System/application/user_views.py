@@ -478,7 +478,7 @@ def get_user_orders():
         orders = Order.query.filter_by(user_id=curr_user.id).all()
         order_details = []
         for order in orders:
-            formatted_order_date = order.created_at.strftime("%Y-%m-d %I:%M %p")
+            formatted_order_date = order.created_at.strftime("%Y-%m-%d %I:%M %p")
             # Get the tracking details for the order
             tracking_details = PackageTracking.query.filter_by(order_id=order.order_id).all()
             order_info = {
