@@ -321,7 +321,7 @@ import random
 # Function to generate a custom order ID for courier
 def generate_order_id(user_id, i):
     # You can customize the format of your order ID here
-    order_id = f"{user_id}{i}{random.randint(100000, 999999)}"
+    order_id = f"{user_id}{i}{random.randint(100000000, 999999999)}"
     return order_id # Use 2 digits with leading zeros
 
 # API endpoint for checkout
@@ -335,7 +335,7 @@ def checkout():
             return jsonify({'error': 'Cart is empty. Please add some products first.'}), 400
 
         # Create a new session
-        with db.session.begin(subtransactions=True):
+        with db.session.begin_nested():
             for i, cart_item in enumerate(cartitems, start=1):
                 # Generate a custom order ID with sequential numbers
                 custom_order_id = generate_order_id(user.id, i)
