@@ -57,11 +57,11 @@ Courier Management System
 
             │    ├──── application
 
-            │    │    ├──── \_\_init\_\_.py
+            │    │    ├──── __init__.py
 
-            │    │    ├──── user\_views.py
+            │    │    ├──── user_views.py
 
-            │    │    ├──── admin\_views.py
+            │    │    ├──── admin_views.py
 
             │    │    ├──── authentication.py
 
@@ -69,7 +69,7 @@ Courier Management System
 
             │    │    ├──── mail.py
 
-            │    │    ├──── manager\_views.py
+            │    │    ├──── manager_views.py
 
             │    │    ├──── map.html
 
@@ -83,9 +83,9 @@ Courier Management System
 
             │    │    │    │    ├──── components
 
-            │    │    │    │    │    ├──── admin\_dashboard.js
+            │    │    │    │    │    ├──── admin_dashboard.js
 
-            │    │    │    │    │    ├──── admin\_management.js
+            │    │    │    │    │    ├──── admin_management.js
 
             │    │    │    │    │    ├──── cart.js
 
@@ -93,7 +93,7 @@ Courier Management System
 
             │    │    │    │    │    ├──── login.js
 
-            │    │    │    │    │    ├──── manager\_dashboard.js
+            │    │    │    │    │    ├──── manager_dashboard.js
 
             │    │    │    │    │    ├──── PasswordRecovery.js
 
@@ -107,23 +107,23 @@ Courier Management System
 
             │    │    │    │    ├──── router.js
 
-            │    │    │    ├──── manager\_csv
+            │    │    │    ├──── manager_csv
 
-            │    │    │    │    ├──── manager\_kumbakonam\_report.csv
+            │    │    │    │    ├──── manager_kumbakonam_report.csv
 
-            │    │    │    │    ├──── manager\_rameswaram\_report.csv
+            │    │    │    │    ├──── manager_rameswaram_report.csv
 
-            │    │    │    │    ├──── manager\_trichy\_report.csv
+            │    │    │    │    ├──── manager_trichy_report.csv
 
             │    │    │    ├──── summary
 
-            │    │    │    │    ├──── courier\_manager\_distribution.svg
+            │    │    │    │    ├──── courier_manager_distribution.svg
 
-            │    │    │    │    ├──── order\_per\_user\_distribution.svg
+            │    │    │    │    ├──── order_per_user_distribution.svg
 
-            │    │    │    │    ├──── request\_status\_distribution.svg
+            │    │    │    │    ├──── request_status_distribution.svg
 
-            │    │    │    │    ├──── user\_role\_distribution.svg
+            │    │    │    │    ├──── user_role_distribution.svg
 
             │    │    ├──── templates
 
